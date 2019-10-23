@@ -1,0 +1,3 @@
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\PrintMinionNames\bin\Debug\netcoreapp3.1\PrintMinionNames.exe
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\PrintMinionNames\obj\Debug\netcoreapp3.1\PrintMinionNames.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\PrintMinionNames\obj\Debug\netcoreapp3.1\PrintMinionNames.AssemblyInfo.cs

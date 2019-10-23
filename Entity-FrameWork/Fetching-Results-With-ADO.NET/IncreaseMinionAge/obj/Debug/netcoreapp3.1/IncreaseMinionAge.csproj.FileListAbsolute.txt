@@ -1,0 +1,3 @@
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp3.1\IncreaseMinionAge.exe
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp3.1\IncreaseMinionAge.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp3.1\IncreaseMinionAge.AssemblyInfo.cs

@@ -1,0 +1,3 @@
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\RemoveVillian\bin\Debug\netcoreapp3.1\RemoveVillian.exe
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\RemoveVillian\obj\Debug\netcoreapp3.1\RemoveVillian.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\RemoveVillian\obj\Debug\netcoreapp3.1\RemoveVillian.AssemblyInfo.cs

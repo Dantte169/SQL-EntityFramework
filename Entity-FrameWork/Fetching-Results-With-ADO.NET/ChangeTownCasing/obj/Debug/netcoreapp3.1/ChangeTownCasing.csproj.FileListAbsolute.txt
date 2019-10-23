@@ -1,0 +1,4 @@
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\ChangeTownCasing\bin\Debug\netcoreapp3.1\ChangeTownCasing.exe
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\ChangeTownCasing\obj\Debug\netcoreapp3.1\ChangeTownCasing.csprojAssemblyReference.cache
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\ChangeTownCasing\obj\Debug\netcoreapp3.1\ChangeTownCasing.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\FetchingResultsWithADO.NET\ChangeTownCasing\obj\Debug\netcoreapp3.1\ChangeTownCasing.AssemblyInfo.cs
