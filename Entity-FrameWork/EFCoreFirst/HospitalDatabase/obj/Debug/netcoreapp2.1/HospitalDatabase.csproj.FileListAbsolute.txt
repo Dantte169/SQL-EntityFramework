@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp2.1\HospitalDatabase.deps.json
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp2.1\HospitalDatabase.runtimeconfig.json
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp2.1\HospitalDatabase.runtimeconfig.dev.json
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp2.1\HospitalDatabase.dll
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp2.1\HospitalDatabase.pdb
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp2.1\HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp2.1\HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp2.1\HospitalDatabase.AssemblyInfo.cs
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp2.1\HospitalDatabase.dll
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp2.1\HospitalDatabase.pdb

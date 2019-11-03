@@ -1,0 +1,4 @@
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\bin\Debug\netcoreapp3.1\HospitalDatabase.exe
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp3.1\HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp3.1\HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\EFCoreFirst\HospitalDatabase\obj\Debug\netcoreapp3.1\HospitalDatabase.AssemblyInfo.cs
