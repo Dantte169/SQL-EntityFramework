@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.deps.json
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.dll
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.pdb
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.dll
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.pdb
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.csprojAssemblyReference.cache
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.AssemblyInfo.cs
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.csproj.CopyComplete
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.dll
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.deps.json
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.dll
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.pdb
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.dll
+C:\Users\David\source\repos\StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.0\P01_StudentSystem.Data.Models.pdb
