@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\David\source\repos\XML-Excersise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
