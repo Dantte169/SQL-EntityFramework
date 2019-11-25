@@ -719,14 +719,28 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "P01_StudentSystem.Data.Models/1.0.0": {
+      "P03_FootballBetting.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.0",
+          "P03_FootballBetting.Data.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/P03_FootballBetting.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/P03_FootballBetting.Data.dll": {}
+        }
+      },
+      "P03_FootballBetting.Data.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
-          "bin/placeholder/P01_StudentSystem.Data.Models.dll": {}
+          "bin/placeholder/P03_FootballBetting.Data.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/P01_StudentSystem.Data.Models.dll": {}
+          "bin/placeholder/P03_FootballBetting.Data.Models.dll": {}
         }
       }
     }
@@ -2843,16 +2857,20 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "P01_StudentSystem.Data.Models/1.0.0": {
+    "P03_FootballBetting.Data/1.0.0": {
       "type": "project",
-      "path": "../P01_StudentSystem.Data.Models/P01_StudentSystem.Data.Models.csproj",
-      "msbuildProject": "../P01_StudentSystem.Data.Models/P01_StudentSystem.Data.Models.csproj"
+      "path": "../P03_FootballBetting.Data/P03_FootballBetting.Data.csproj",
+      "msbuildProject": "../P03_FootballBetting.Data/P03_FootballBetting.Data.csproj"
+    },
+    "P03_FootballBetting.Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../P03_FootballBetting.Data.Models/P03_FootballBetting.Data.Models.csproj",
+      "msbuildProject": "../P03_FootballBetting.Data.Models/P03_FootballBetting.Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.0",
-      "P01_StudentSystem.Data.Models >= 1.0.0"
+      "P03_FootballBetting.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2862,11 +2880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
-      "projectName": "P01_StudentSystem.Data",
-      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting\\P03_FootballBetting.csproj",
+      "projectName": "P03_FootballBetting",
+      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting\\P03_FootballBetting.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2885,8 +2903,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj"
+            "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj": {
+              "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj"
             }
           }
         }
@@ -2899,12 +2917,6 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[2.2.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -2918,6 +2930,10 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[3.0.0, 3.0.0]"
           },
           {

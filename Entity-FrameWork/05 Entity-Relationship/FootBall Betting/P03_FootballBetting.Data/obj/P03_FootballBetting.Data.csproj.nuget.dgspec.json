@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {}
+    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
+    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\P03_FootballBetting.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
-        "projectName": "P01_StudentSystem.Data.Models",
-        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\P03_FootballBetting.Data.Models.csproj",
+        "projectName": "P03_FootballBetting.Data.Models",
+        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\P03_FootballBetting.Data.Models.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {
+    "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
-        "projectName": "P01_StudentSystem.Data",
-        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj",
+        "projectName": "P03_FootballBetting.Data",
+        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,8 +99,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj"
+              "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\P03_FootballBetting.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\David\\Documents\\GitHub\\SQL-EntityFramework\\Entity-FrameWork\\05 Entity-Relationship\\FootBall Betting\\P03_FootballBetting.Data.Models\\P03_FootballBetting.Data.Models.csproj"
               }
             }
           }
